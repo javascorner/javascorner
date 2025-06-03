@@ -28,28 +28,29 @@ Saya **Ujang Trisno**, Freelance Web Developer dan **Pendiri PT Javas Corner Med
 ---
 
 ## 🛠️ Tech Stack & Tools
-- **Keahlian**:  
-  ![HTML Logo](https://source.unsplash.com/random/50x50/?html) HTML  
-  ![PHP Logo](https://source.unsplash.com/random/50x50/?php) PHP  
-  ![Python Logo](https://source.unsplash.com/random/50x50/?python) Python  
-  ![CSS Logo](https://source.unsplash.com/random/50x50/?css) CSS  
-  ![C Logo](https://source.unsplash.com/random/50x50/?c) C  
-  ![C++ Logo](https://source.unsplash.com/random/50x50/?cpp) C++  
-  ![JavaScript Logo](https://source.unsplash.com/random/50x50/?javascript) JavaScript  
-  ![UI/UX Logo](https://source.unsplash.com/random/50x50/?uiux) UI/UX  
-- **Tools**:  
-  ![Skill Dewa Logo](https://source.unsplash.com/random/50x50/?god) Hosting biasa, skill dewa!  
-- **Framework**:  
-  ![Laravel Logo](https://source.unsplash.com/random/50x50/?laravel) Laravel  
-  ![React Logo](https://source.unsplash.com/random/50x50/?react) React  
-  ![Bootstrap Logo](https://source.unsplash.com/random/50x50/?bootstrap) Bootstrap  
-- **Database**:  
-  ![MySQL Logo](https://source.unsplash.com/random/50x50/?mysql) MySQL  
-  ![Firebase Logo](https://source.unsplash.com/random/50x50/?firebase) Firebase  
+## 💻 Tech Stack
 
-![Elang Terbang](https://www.gambaranimasi.org/data/media/238/animasi-bergerak-elang-0055.gif)  
+### 🛠️ Languages
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![UI/UX](https://img.shields.io/badge/-UI/UX-FF6F61?style=flat-square&logo=figma&logoColor=white)
 
----
+### ⚒️ Tools
+![Hosting](https://img.shields.io/badge/-Hosting_Expert-FFD700?style=flat-square&logo=serverless&logoColor=black)
+
+### 🚀 Frameworks
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ## 📈 Proyek Keren Saya
 ![Proyek Gambar](https://media.licdn.com/dms/image/v2/C5612AQFNN6d_3KqADA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1627132660233?e=2147483647&v=beta&t=LUHjErYHFGNr_fJb-4Y5HFYvzbp4EBokEF0HyDF6rw0)  
