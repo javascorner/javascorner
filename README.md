@@ -52,23 +52,19 @@ Saya **Ujang Trisno**, Freelance Web Developer dan **Pendiri PT Javas Corner Med
 ---
 
 ## 📈 Proyek Keren Saya
-- **Website UMKM Bekasi**  
-  ![Proyek Logo](https://source.unsplash.com/random/50x50/?ecommerce) Bikin website e-commerce untuk UMKM pecel lele lokal dengan fitur katalog dan pemesanan online.  
-- **Website Sekolah**  
-  ![Proyek Logo](https://source.unsplash.com/random/50x50/?school) Website responsif untuk sekolah dengan fitur jadwal dan galeri.  
-- **Website Perusahaan**  
-  ![Proyek Logo](https://source.unsplash.com/random/50x50/?business) Website profesional untuk perusahaan dengan integrasi SEO dan live chat.  
+![Proyek Gambar](https://media.licdn.com/dms/image/v2/C5612AQFNN6d_3KqADA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1627132660233?e=2147483647&v=beta&t=LUHjErYHFGNr_fJb-4Y5HFYvzbp4EBokEF0HyDF6rw0)  
+Proyek yang saya lakukan adalah membuat website perusahaan, organisasi, pemerintah, UMKM, sekolah, dan lain-lain.
 
 ![Elang Terbang](https://www.gambaranimasi.org/data/media/238/animasi-bergerak-elang-0055.gif)  
 
 ---
 
 ## 📊 Statistik GitHub
-Aktivitas saya di GitHub menunjukkan perjalanan keren dari 2023 hingga sekarang! Pada 2023, saya mulai aktif dengan proyek-proyek sederhana, banyak bereksperimen dengan HTML dan CSS. Tahun 2024 sempat naik-turun karena fokus bangun PT Javas Corner Media, tapi di 2025 kontribusi saya melonjak dengan banyak proyek Laravel dan React untuk UMKM dan perusahaan. 🚀  
+Aktivitas saya di GitHub menunjukkan perjalanan keren dari 2023 hingga sekarang! Pada 2023, saya mulai aktif dengan proyek-proyek sederhana HTML dan CSS. Tahun 2024 sempat naik-turun karena fokus bangun PT Javas Corner Media, tapi di 2025 kontribusi saya melonjak dengan banyak proyek Laravel dan React untuk UMKM dan perusahaan. 🚀  
 ![Ujang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ujangtrisno&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ujangtrisno&layout=compact&theme=radical)  
 
-![Elang Terbang](https://www.gambaranimasi.org/data/media/838/animasi-bergerak-elang-0055.gif)  
+![Elang Terbang](https://www.gambaranimasi.org/data/media/238/animasi-bergerak-elang-0055.gif)  
 
 ---
 
